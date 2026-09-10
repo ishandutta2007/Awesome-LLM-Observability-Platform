@@ -1,11 +1,5 @@
 # Awesome-LLM-Observability-Platform
 
-# Awesome-LLM-Observability-Platform
-
-# Awesome-LLM-Observability-Platform
-
-# Awesome-LLM-Observability-Platform
-
 ## Top LLM Observability Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
@@ -14,95 +8,34 @@
 
 **Last updated: September 2026**
 
-
-
 This repository tracks notable **SaaS platforms** and **open-source projects** for **LLM Observability**. These tools help teams trace LLM and agent calls, manage prompts, run evaluations, monitor cost and latency, detect quality regressions, and debug AI applications in production.
-
-
 
 **Examples** include Langfuse, Helicone, LangSmith, Phoenix by Arize, Weights & Biases Weave, HoneyHive, WhyLabs, Fiddler AI, PromptLayer, Patronus AI, Galileo AI, Keywords AI, and OpenLIT (the category leaders).
 
-
-
 **Open-source emphasis**: LLM observability has an unusually strong open-source ecosystem. **Langfuse**, **Arize Phoenix**, **OpenLIT**, **Helicone**, and related projects offer production-grade tracing, evals, and self-hosting. This section is heavily expanded with these tools.
-
-
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-
-
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
-
+- [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## SaaS Products
 
-
-## SaaS/Hosted Platforms
-
-- **[LangSmith](https://www.langchain.com/langsmith)**  
-
-  Native observability, tracing, evaluation, and prompt hub for LangChain and LangGraph applications with deep integration and agent visualization.
-
-
-
-- **[Weights & Biases Weave](https://wandb.ai/site/weave)**  
-
-  LLM and agent tracing, evaluation, and experiment tracking inside the Weights & Biases ML platform.
-
-
-
-- **[HoneyHive](https://www.honeyhive.ai/)**  
-
-  LLM observability and evaluation platform focused on production monitoring, feedback, and quality improvement.
-
-
-
-- **[WhyLabs](https://whylabs.ai/)**  
-
-  AI observability platform with monitoring for data and model quality, including LLM use cases.
-
-
-
-- **[Fiddler AI](https://www.fiddler.ai/)**  
-
-  Model and LLM performance monitoring, explainability, and production observability for enterprise teams.
-
-
-
-- **[PromptLayer](https://www.promptlayer.com/)**  
-
-  Prompt management, logging, and observability focused on versioning and collaboration around prompts.
-
-
-
-- **[Patronus AI](https://www.patronus.ai/)**  
-
-  Evaluation and observability platform specialized in LLM testing, scoring, and production guardrails.
-
-
-
-- **[Galileo AI](https://www.galileo.ai/)**  
-
-  LLM evaluation, observability, and quality monitoring with strong focus on production reliability.
-
-
-
-- **[Keywords AI](https://www.keywordsai.co/)**  
-
-  LLM monitoring, logging, and analytics platform for tracking usage, cost, and performance.
-
-
-
-- **[Other commercial LLM observability offerings](https://github.com/)**  
-
-  Additional hosted platforms providing tracing, evals, or monitoring as part of broader AI engineering suites.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits / Trial |
+| :--- | :--- | :--- | :--- |
+| **[LangSmith](https://www.langchain.com/langsmith)** | Native LLM & agent tracing, evaluation framework, prompt playground, and debugging suite for LangChain/LangGraph and general AI apps. | **$39 / seat / month** (Plus Plan; includes 10,000 base traces/month, $0.005/extra trace) | **Free Forever**: 1 seat, 5,000 base traces/month, 14-day data retention, 100 eval cell runs/month |
+| **[Weights & Biases Weave](https://wandb.ai/site/weave)** | LLM and agent tracing, dataset management, prompt versioning, and evaluation tracking integrated with the W&B MLOps platform. | **$60 / user / month** (Pro Plan; includes 100 GB storage and 1.5 GB/month Weave data ingestion) | **Free Forever**: 1 user seat, 5 GB storage, 1 GB/month Weave trace ingestion |
+| **[Galileo AI](https://www.galileo.ai/)** | End-to-end LLM observability, agent analytics, prompt evaluation, hallucination detection, and real-time guardrails. | **$100 / month** (Pro Plan, billed yearly; includes 50,000 traces/month, standard RBAC) | **Free Forever**: 5,000 traces/month, unlimited user seats, unlimited custom evaluators |
+| **[PromptLayer](https://www.promptlayer.com/)** | Prompt management, visual LLM request logging, prompt version control, collaboration playground, and automated evals. | **$49 / month** (Pro Plan; includes unlimited playgrounds/workspaces, 150MB max dataset size) | **Free Forever**: 5 users, 2,500 requests/month, 1 workspace, 250 eval cell runs/month, 10MB dataset limit |
+| **[Keywords AI (Respan)](https://www.respan.ai/)** | LLM gateway and observability platform offering real-time logging, user analytics, prompt management, and model cost optimization. | **$39 / month** (Pro Tier) / **$199 / month** (Team Tier, billed yearly; +$8 per 100k extra logs) | **Free Forever**: 10,000 traces/month (100k logs), 1,000 scores, 5 datasets, 2 evaluators, 5 prompts |
+| **[HoneyHive](https://www.honeyhive.ai/)** | LLM observability, production monitoring, user feedback tracking, automated evaluations, and CI/CD prompt versioning. | **$0.003 / event** (Usage-based Developer overage) / **$500 / month** (Team/Enterprise starting tier) | **Free Forever**: 10,000 events/month, 1,000 RPM, up to 5 user seats, 30-day data retention |
+| **[Fiddler AI](https://www.fiddler.ai/)** | Enterprise LLM observability, real-time guardrails (PII, toxicity, hallucination detection), and predictive model performance monitoring. | **$0.002 / trace** (Developer Plan; includes unified AI observability and RBAC) | **Free Plan**: Real-time guardrails (<80ms latency); or **30-Day Free Trial** on AWS Marketplace (up to 5 models) |
+| **[Patronus AI](https://www.patronus.ai/)** | Automated evaluation platform specialized in LLM testing, automated scoring, enterprise guardrails, and hallucination detection. | **$0.005 / evaluation** (Self-serve pay-as-you-go rate); Custom enterprise quotes | **$5 Free Platform Credits** upon signup (~500–1,000 evaluations) + free 45-min evaluation strategy session |
+| **[WhyLabs](https://whylabs.ai/)** | AI observability and guardrail platform with real-time drift, quality monitoring, and security tracking powered by LangKit and whylogs. | **$0 / month** (Open-source Apache 2.0 self-hosted platform; legacy SaaS starter was $125/mo) | **Free Forever**: Unlimited self-hosted traces & models under Apache 2.0 (hosted starter was 2 models, 10M profiles/mo) |
 
 
 
