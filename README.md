@@ -73,49 +73,49 @@ The table below is sorted by **Company Size (Valuation / Funding)** in descendin
 
 The open-source LLM observability ecosystem provides enterprise-grade, self-hosted, and OpenTelemetry-native solutions. The list below is sorted by **GitHub Star Count** (descending) with direct links to repo stargazers:
 
-- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
   Leading open-source LLM engineering platform (MIT) — tracing, prompt management, evaluations, datasets, metrics, and playground. Fully self-hostable with cloud option.
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
   CLI and CI/CD security, quality, and red-teaming evaluation framework for LLMs and AI applications.
 
-- **[Comet Opik](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
+- **[Comet Opik](https://github.com/comet-ml/opik)** [![GitHub_Stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
   Open-source tracing and evaluation platform that runs standalone or integrates seamlessly with Comet ML.
 
-- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
   Open-source LLM evaluation framework with unit-testing style evaluation for prompt and output regression checks.
 
-- **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
+- **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub_Stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
   Supercharged evaluation framework for Retrieval Augmented Generation (RAG) and LLM pipelines.
 
-- **[Portkey AI Gateway](https://github.com/portkey-ai/gateway)** [![GitHub stars](https://img.shields.io/github/stars/portkey-ai/gateway?style=social&color=white)](https://github.com/portkey-ai/gateway/stargazers)  
+- **[Portkey AI Gateway](https://github.com/portkey-ai/gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/portkey-ai/gateway?style=social&color=white)](https://github.com/portkey-ai/gateway/stargazers)  
   Blazing fast AI Gateway with integrated routing, fallbacks, load balancing, cost tracking, guardrails, and OpenTelemetry-compliant observability.
 
-- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
   AI observability & evaluation platform from Arize — OpenTelemetry-native tracing, LLM-as-judge evals, datasets, and troubleshooting.
 
-- **[Prompt flow](https://github.com/microsoft/promptflow)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers)  
+- **[Prompt flow](https://github.com/microsoft/promptflow)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers)  
   Suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications, from ideation to evaluation and production deployment.
 
-- **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+- **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
   OpenTelemetry-native instrumentation SDKs for LLM applications, enabling seamless trace forwarding to any OTEL backend.
 
-- **[Helicone](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
+- **[Helicone](https://github.com/Helicone/helicone)** [![GitHub_Stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
   Open-source LLM observability via smart caching proxy or SDK — simple drop-in logging, cost tracking, and analytics.
 
-- **[AgentOps](https://github.com/AgentOps-AI/AgentOps)** [![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/AgentOps?style=social&color=white)](https://github.com/AgentOps-AI/AgentOps/stargazers)  
+- **[AgentOps](https://github.com/AgentOps-AI/AgentOps)** [![GitHub_Stars](https://img.shields.io/github/stars/AgentOps-AI/AgentOps?style=social&color=white)](https://github.com/AgentOps-AI/AgentOps/stargazers)  
   Observability, session replays, and performance tracking purpose-built for multi-agent workflows and autonomous agents.
 
-- **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+- **[TruLens](https://github.com/truera/trulens)** [![GitHub_Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
   Evaluation and observability framework for analyzing LLM/RAG applications using feedback functions.
 
-- **[LangWatch](https://github.com/langwatch/langwatch)** [![GitHub stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social&color=white)](https://github.com/langwatch/langwatch/stargazers)  
+- **[LangWatch](https://github.com/langwatch/langwatch)** [![GitHub_Stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social&color=white)](https://github.com/langwatch/langwatch/stargazers)  
   Complete LLM observability, guardrails, security monitoring, and quality evaluation platform.
 
-- **[OpenLIT](https://github.com/openlit/openlit)** [![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
+- **[OpenLIT](https://github.com/openlit/openlit)** [![GitHub_Stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
   Open-source (Apache 2.0), OpenTelemetry-native platform for LLM and agent tracing, evaluations, prompt management, and GPU/cost tracking.
 
-- **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)  
+- **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub_Stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)  
   Open-source evaluation and observability toolkit for monitoring LLM application performance and hallucination rates.
 
 ---
