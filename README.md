@@ -117,6 +117,8 @@ The open-source LLM observability ecosystem provides enterprise-grade, self-host
 
 - **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub_Stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)  
   Open-source evaluation and observability toolkit for monitoring LLM application performance and hallucination rates.
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)** [![GitHub_Stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social&color=white)](https://github.com/flik2002/openclaw-monitor/stargazers)  
+  Free open-source monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts, MIT license.
 
 ---
 
